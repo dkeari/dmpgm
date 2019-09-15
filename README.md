@@ -1,4 +1,4 @@
-# Department of Mineral Policy and Geohazards Management Consulting Services
+# Department of Mineral Policy and Geohazards Management Demo Website
 The Objective of the website is to share information and data on events happening in the country.
 
 Summary of key deliverables
